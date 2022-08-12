@@ -1,52 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="504de13b-8b04-4d1c-bc23-531f2ce17f2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/blog/2019-05-28-first-blog-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/blog/2019-05-29-long-blog-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/blog/2021-08-01-mdx-blog-post.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/blog/2021-08-26-welcome/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/blog/authors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/congratulations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/create-a-blog-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/create-a-document.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/create-a-page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/deploy-your-site.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-basics/markdown-features.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-extras/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-extras/img/docsVersionDropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-extras/img/localeDropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-extras/manage-docs-versions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/docs/tutorial-extras/translate-your-site.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/src/components/HomepageFeatures/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/src/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/src/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/src/pages/index.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/src/pages/markdown-page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/img/docusaurus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/img/undraw_docusaurus_mountain.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/img/undraw_docusaurus_react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-design-system-lib/static/img/undraw_docusaurus_tree.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sidebars.js" afterDir="false" />
+    <list default="true" id="504de13b-8b04-4d1c-bc23-531f2ce17f2e" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +11,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +56,16 @@
       <option name="presentableId" value="Default" />
       <updated>1660330603114</updated>
       <workItem from="1660330604360" duration="526000" />
+      <workItem from="1660331252505" duration="797000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1660331302333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660331302333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
